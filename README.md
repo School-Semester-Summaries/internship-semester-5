@@ -18,8 +18,13 @@ You carry out the professional duties on a junior bachelor level resulting in pr
 **Professional products** = end products and intermediate products as a result of the professional duties
 
 **In line with the IT-area** =  You deliver professional products that are characteristic for the IT area of your project. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the professional products required in OE3 or OE4
+
 # Learning Outcome 2: Situation-orientation
+
 # Learning Outcome 3: Future-Oriented Organisation
+
 # Learning Outcome 4: Investigative Problem Solving
+
 # Learning Outcome 5: Personal Leadership
+
 # Learning Outcome 6: Targeted Interaction
