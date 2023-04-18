@@ -28,3 +28,10 @@ You carry out the professional duties on a junior bachelor level resulting in pr
 # Learning Outcome 5: Personal Leadership
 
 # Learning Outcome 6: Targeted Interaction
+
+--
+flair.ai researchen
+chatgpt vs bard researchen
+die ai foto ding researchen
+stagiair begeleiden
+docenten helpen met kleine dingen
