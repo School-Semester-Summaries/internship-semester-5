@@ -10,6 +10,14 @@
 
 # Preface
 # Learning Outcome 1: Professional duties
+
+You carry out the professional duties on a junior bachelor level resulting in professional products in line with the IT-area you are working in.
+
+**Professional duties on a junior bachelor level** = All or a subset of the activities Analysis, Design, Realize, Advise, Manage&Control. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the level as required in OE3 or OE4
+
+**Professional products** = end products and intermediate products as a result of the professional duties
+
+**In line with the IT-area** =  You deliver professional products that are characteristic for the IT area of your project. As a reference use: 1) the HBO-I framework on proficiency level 2, 2) the professional products required in OE3 or OE4
 # Learning Outcome 2: Situation-orientation
 # Learning Outcome 3: Future-Oriented Organisation
 # Learning Outcome 4: Investigative Problem Solving
