@@ -1,47 +1,41 @@
-  
- 
 Toegankelijkheidsonderzoek
 18-04-2023
 Versie 2.0
-─
-
-
 
 Kaan Gögcay
 
 Versiebeheer
-Versie	Datum	Wijzigingen
-1.0	07/02/2023	Alles
-2.0	18/04/2023	Alles
-2.1	05/06/2023	Overige Vraag 2: Is dit wel de…: Voordelen en Nadelen toegevoegd per techniek
-3.0	06/06/2023	Algemeen
-- 2de hoofdvraag toegevoegd
-- deelvragen anders genummerd
-- minder spelfouten/grammatica
+Versie Datum Wijzigingen
+1.0 07/02/2023 Alles
+2.0 18/04/2023 Alles
+2.1 05/06/2023 Overige Vraag 2: Is dit wel de…: Voordelen en Nadelen toegevoegd per techniek
+3.0 06/06/2023 Algemeen
 
-Deelvraag 2.1 
-- Compleet nieuwe inhoud
+2e hoofdvraag toegevoegd
+deelvragen anders genummerd
+minder spelfouten/grammatica
+Deelvraag 2.1
 
-Deelvraag 2.2 
-- anders gestructureerd
-- tekst omgezet in voordelen en nadelen 
-- tabel toegevoegd
+Compleet nieuwe inhoud
+Deelvraag 2.2
 
- 
+Anders gestructureerd
+Tekst omgezet in voordelen en nadelen
+Tabel toegevoegd
 Inleiding
-In dit document wil ik onderzoeken hoe ik mijn applicatie zo toegankelijk mogelijk voor alle eindgebruikers kan maken. Hieruit volgt de hoofdvraag van het onderzoek: Hoe kan ik de applicatie zo toegankelijk mogelijk maken voor alle eindgebruikers? Ook is er tijdens mijn stage een tweede hoofdvraag bijgekomen: Wat is de beste techniek en methode om de oplossing te realiseren?
- 
+In dit document wil ik onderzoeken hoe ik mijn applicatie zo toegankelijk mogelijk kan maken voor alle eindgebruikers. Hieruit volgt de hoofdvraag van het onderzoek: Hoe kan ik de applicatie zo toegankelijk mogelijk maken voor alle eindgebruikers? Ook is er tijdens mijn stage een tweede hoofdvraag bijgekomen: Wat is de beste techniek en methode om de oplossing te realiseren?
+
 Context
-In mijn opdracht moet ik een Serious-Game maken voor autotechniek studenten op het MBO. Deze Serious-Game wordt uiteindelijk bruikbaar voor zowel studenten als docenten. Docenten kunnen zelf levels bouwen voor hun studenten en studenten kunnen deze levels vervolgens spelen. Maar waarom doe ik dit?
-De Serious-Game die ik ga maken is een oplossing op het probleem van mijn stakeholder Tim. Tim is een docent op de autotechniek MBO. Op deze MBO is er maar één praktijklokaal om met studenten één op één handelingen te beoefenen. Omdat er maar 1 praktijklokaal is duurt het lang om meerdere studenten één voor één een één op één les te geven. 
-Tim wil dit probleem oplossen door middel van een Serious-Game.
- 
+In mijn opdracht moet ik een Serious Game maken voor autotechniekstudenten op het MBO. Deze Serious Game wordt uiteindelijk bruikbaar voor zowel studenten als docenten. Docenten kunnen zelf levels bouwen voor hun studenten en studenten kunnen deze levels vervolgens spelen. Maar waarom doe ik dit? De Serious Game die ik ga maken is een oplossing voor het probleem van mijn stakeholder Tim. Tim is een docent op de autotechniek MBO. Op deze MBO is er maar één praktijklokaal om met studenten één-op-één handelingen te beoefenen. Omdat er maar één praktijklokaal is, duurt het lang om meerdere studenten één voor één een één-op-één les te geven. Tim wil dit probleem oplossen door middel van een Serious Game.
+
 Deelvragen
-Om mijn hoofdvragen te beantwoorden gaan we eerst een aantal deelvragen beantwoorden. Door het beantwoorden van deze deelvragen kunnen we uiteindelijk de hoofdvraag beantwoorden. De deelvragen van de hoofdvraag: Hoe kan ik de applicatie zo toegankelijk mogelijk maken voor alle eindgebruikers?
+Om mijn hoofdvragen te beantwoorden, gaan we eerst een aantal deelvragen beantwoorden. Door het beantwoorden van deze deelvragen kunnen we uiteindelijk de hoofdvraag beantwoorden. De deelvragen van de hoofdvraag "Hoe kan ik de applicatie zo toegankelijk mogelijk maken voor alle eindgebruikers?" zijn:
+
 Deelvraag 1.1: Hoe maken we de Level Editor zo toegankelijk mogelijk voor docenten?
-Door deze vraag te beantwoorden komen we erachter hoe we de applicatie zo toegankelijk mogelijk kunnen maken voor docenten
+Door deze vraag te beantwoorden, komen we erachter hoe we de applicatie zo toegankelijk mogelijk kunnen maken voor docenten.
+
 Deelvraag 1.2: Hoe maken we het speelveld zo toegankelijk mogelijk voor studenten?
-Door deze vraag te beantwoorden komen we erachter hoe we de applicatie zo toegankelijk mogelijk kunnen maken voor Studenten
+Door deze vraag te beantwoorden, komen we erachter hoe we de applicatie zo toegankelijk mogelijk kunnen maken voor studenten.
 Deelvraag 1.3: Tot in hoeverre moeten en kunnen we rekening houden met studenten met een beperking?
 Ik heb de mogelijkheid om extra functionaliteiten toe te voegen, zodat mensen met een beperking die normaal de Serious Game niet zouden kunne spelen, wél kunnen spelen. Maar tot in hoeverre is dit nodig? Daar komen we achter door de huidige deelvraag te beantwoorden.
 Deelvragen van de hoofdvraag: Wat is de beste techniek en methode om de oplossing te realiseren?
